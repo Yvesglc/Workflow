@@ -1,2 +1,5 @@
 a = input("Qual seu nome? ")
 print(a)
+b = input(a + ", Digite um número ")
+print(b)
+if b >= 5:  print("Ok")
